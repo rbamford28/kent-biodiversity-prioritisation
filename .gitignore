@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+data/processed/biodiversity_kent.csv
+data/processed/biodiversity_kent_qgis.cpg
+data/processed/biodiversity_kent_qgis.dbf
+data/processed/biodiversity_kent_qgis.prj
+data/processed/biodiversity_kent_qgis.shp
+data/processed/biodiversity_kent_qgis.shx
